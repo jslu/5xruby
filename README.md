@@ -4,3 +4,4 @@
 3. github flow
 4. CodeShip CI server
 5. Slack
+6. test
